@@ -8,7 +8,7 @@ https://fifisshh.github.io/Web_SliderUseJS/
 
 <link rel="stylesheet" href="https://fifisshh.github.io/Web_SliderUseJS/style.css">
 
-<script src="https://fifisshh.github.io/Web_SliderUseJS/main.js"></script>
+<script src="https://fifisshh.github.io/Web_SliderUseJS/main.js"> </script>
 
 
 ## 架構
