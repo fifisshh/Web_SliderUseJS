@@ -7,13 +7,11 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <div id="wrapper">
+    <div id="wrapper" data-slider-dur="3000">
         <div class="box box-active">
             <img src="./img/Clone1.jpg" alt="Clone1">
             <h1>─── 哥走的不是zoo 是孤單</h1>
             <h5>CLONE</h5>
-            <div id="btn-prev"></div>
-            <div id="btn-next"></div>
         </div>
         <div class="box">
             <img src="./img/Clone2.jpg" alt="Clone2">
@@ -22,6 +20,22 @@
         <div class="box">
             <img src="./img/Clone3.jpg" alt="Clone3">
             <h1>1 2 3 ───木頭人</h1>
+        </div>
+
+        <!-- btn1 left+right -->
+        <div id="btn-prev">
+            <span class="sp1"></span>
+            <span class="sp2"></span>
+        </div>
+        <div id="btn-next">
+            <div class="c1"></div>
+        </div>
+
+        <!-- btn2 bottom -->
+        <div id="btn-bottoms">
+            <div class="btn-bottom btn-active" data-slider-item="1"></div>
+            <div class="btn-bottom" data-slider-item="2"></div>
+            <div class="btn-bottom" data-slider-item="3"></div>
         </div>
     </div>
 
