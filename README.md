@@ -7,6 +7,7 @@ https://fifisshh.github.io/Web_SliderUseJS/
 ## CDN
 
 <link rel="stylesheet" href="https://fifisshh.github.io/Web_SliderUseJS/style.css">
+
 <script src="https://fifisshh.github.io/Web_SliderUseJS/main.js"></script>
 
 
